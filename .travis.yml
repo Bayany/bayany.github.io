@@ -1,4 +1,4 @@
 language: ruby
 rvm:
-  - 2.3https://github.com/Bayany/bayany.github.io
+  - 2.3
 script: "bundle exec jekyll build"
